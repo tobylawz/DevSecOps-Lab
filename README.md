@@ -10,7 +10,7 @@ Learning Git basics today!!
 3. Branch & merge
 4. Document progress in Jira
 5. Make roadmap diagram
-Practice commit #1
+Practice commit #1.
 Practice commit #2
 Practice commit #3
 Practice commit #4
