@@ -45,5 +45,6 @@ practice push #4
   Verified the server was running locally on port 3000 and successfully captured a screenshot as evidence.  
   This challenge introduced me to Juice Shop’s environment and how challenges are tracked.  
 practice pull #4
+practice branch #4
 
 
