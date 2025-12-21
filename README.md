@@ -31,6 +31,19 @@ practice push #3
 practice pull #3
 practice branch #3
 practice push #4
+# Juice Shop Challenges
+
+## Challenge 1: Score Board / First Steps
+- **Completed on:** 21 Dec 2025
+- **Screenshot:**
+  
+  ![Challenge 1 Screenshot](screenshot1.png)
+  
+- **Notes:**  
+  Completed the first Juice Shop challenge by accessing the Score Board.  
+  Learned how to navigate the application and identify basic OWASP Top 10 vulnerabilities.  
+  Verified the server was running locally on port 3000 and successfully captured a screenshot as evidence.  
+  This challenge introduced me to Juice Shop’s environment and how challenges are tracked.  
 practice pull #4
 
 
